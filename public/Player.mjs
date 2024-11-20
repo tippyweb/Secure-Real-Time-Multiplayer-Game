@@ -1,3 +1,9 @@
+/**
+ * ##########################################################
+ *  Secure Real Time Multiplayer Game - 2024-11-20
+ * ##########################################################
+ */
+
 import { baseX, baseY, maxOffsetX, maxOffsetY } from './game.mjs';
 const collision_dist = 12;
 

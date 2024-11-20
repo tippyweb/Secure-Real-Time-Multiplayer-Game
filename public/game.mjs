@@ -1,3 +1,9 @@
+/**
+ * ##########################################################
+ *  Secure Real Time Multiplayer Game - 2024-11-20
+ * ##########################################################
+ */
+
 import Player from './Player.mjs';
 import Collectible from './Collectible.mjs';
 

@@ -1,3 +1,9 @@
+/**
+ * ##########################################################
+ *  Secure Real Time Multiplayer Game - 2024-11-20
+ * ##########################################################
+ */
+
 require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
